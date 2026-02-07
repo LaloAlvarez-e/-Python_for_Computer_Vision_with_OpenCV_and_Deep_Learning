@@ -1,0 +1,39 @@
+# Updated requirements for Python 3.8+ compatibility
+# Use requirements_legacy.txt for Python 3.6-3.8 with original versions
+
+# Jupyter and Notebook support
+jupyter==1.0.0
+jupyterlab>=3.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+nbconvert>=6.0.0
+nbformat>=5.0.0
+qtconsole>=5.0.0
+
+# Core packages
+keras>=2.10.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+pillow>=9.0.0
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+scikit-learn>=1.0.0
+six>=1.16.0
+tensorflow>=2.10.0ents for Python 3.8+ compatibility
+# Compatible with modern Python versions while maintaining similar functionality
+
+jupyter==1.0.0
+jupyterlab>=3.0.0
+keras>=2.10.0
+matplotlib>=3.5.0
+nbconvert>=6.0.0
+nbformat>=5.0.0
+notebook>=6.4.0
+numpy>=1.21.0
+pillow>=9.0.0
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+qtconsole>=5.0.0
+scikit-learn>=1.0.0
+six>=1.16.0
+tensorflow>=2.10.0

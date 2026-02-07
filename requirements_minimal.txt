@@ -1,0 +1,21 @@
+# Minimal Core Requirements - Install these first, then add others as needed
+# This ensures the basic environment works before adding complex dependencies
+
+# Core scientific computing
+numpy>=1.21.0
+pillow>=9.0.0
+
+# OpenCV (computer vision)
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Deep Learning (optional - comment out if not needed immediately)
+# tensorflow>=2.10.0
+# keras>=2.10.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.4.0

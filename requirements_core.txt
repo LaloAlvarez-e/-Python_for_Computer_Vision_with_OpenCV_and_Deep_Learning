@@ -1,0 +1,22 @@
+# Core requirements - No JupyterLab (avoids long path issues)
+# This is the most minimal version that avoids Windows path length problems
+
+# Core scientific computing
+numpy>=1.21.0
+pillow>=9.0.0
+matplotlib>=3.5.0
+
+# OpenCV (computer vision)
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Jupyter Notebook support (without JupyterLab to avoid long paths)
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Basic Jupyter (notebook only, no lab)
+notebook>=6.4.0
+ipykernel>=6.0.0
